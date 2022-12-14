@@ -59,7 +59,7 @@
     "chai": "4.2.0",
     "cookie-parser": "1.4.4",
     "coveralls": "3.0.7",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "express-session": "1.17.0",
     "fsevents": "1.2.9",
     "husky": "3.0.9",
